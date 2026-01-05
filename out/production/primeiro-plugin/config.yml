@@ -1,0 +1,5 @@
+mensagem_voo_ativado: "&8[&2Craftoria&5Realms&8] &2ATIVO"
+mensagem_voo_desativado: "&8[&2Craftoria&5Realms&8] &4DESATIVADO"
+mensagem_sem_permissao: "&8[&2Craftoria&5Realms&8] &eSOMENTE PARA &6[VIPS]"
+mensagem_uso_errado: "&fUnknown Command"
+mensagem_somente_jogador: "&cSo jogadores podem usar esse comando!"
